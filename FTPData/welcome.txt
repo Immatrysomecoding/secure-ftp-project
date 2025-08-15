@@ -1,0 +1,3 @@
+Welcome to Secure FTP Server!
+This is a test file.
+You can download this file to test GET command.
